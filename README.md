@@ -1,7 +1,7 @@
 # Conversational Word Embedding for Retrieval-based Dialog System
 This repository contains resources of the following [ACL 2020](https://acl2020.org/) paper. 
 
-Title: Conversational Word Embedding for Retrieval-based Dialog System 
+Title: Conversational Word Embedding for Retrieval-based Dialog System  
 Authors: Wentao Ma, Yiming Cui, Ting Liu, Dong Wang, Shijin Wang, Guoping Hu  
 Link: [https://arxiv.org/abs/2004.13249](https://arxiv.org/abs/2004.13249)
 
