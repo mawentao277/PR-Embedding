@@ -6,9 +6,9 @@ Authors: Wentao Ma, Yiming Cui, Ting Liu, Dong Wang, Shijin Wang, Guoping Hu
 Link: [https://arxiv.org/abs/2004.13249](https://arxiv.org/abs/2004.13249)
 
 ## News
-We will release our codes before 10 July!  
-We have already uploaded the Chinese PR-Embedding based on Zhidao (password g3FK) and Weibo (password Yz6H) [Zhidao Embedding](http://pan.iflytek.com:80/link/AA19A09424DD80437F1A5E6C73F03A84) |
-[Weibo Embedding](http://pan.iflytek.com:80/link/465C101719F25F89A472D4E6F7E51275).
+We will release our codes ** before 10 July **!  
+We have already uploaded the ** Chinese PR-Embedding based on Zhidao (password g3FK) and Weibo (password Yz6H) [Zhidao Embedding](http://pan.iflytek.com:80/link/AA19A09424DD80437F1A5E6C73F03A84) |
+[Weibo Embedding](http://pan.iflytek.com:80/link/465C101719F25F89A472D4E6F7E51275)**.
 
 ## Citation
 If you use the data or codes in this repository, please cite our paper
