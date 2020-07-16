@@ -13,8 +13,8 @@ Link: [https://www.aclweb.org/anthology/2020.acl-main.127/](https://www.aclweb.o
 ## Requirements
 gcc4.8.5 (or >=4.8.5)  
 Python3.6  
-Keras2.1.2 (or >=2.0)  
-Tensorflow1.12.0 (or >=1.10.0)  
+Keras2.1.2 (or >=2.1)  
+Tensorflow1.12.0 (or >=1.12)  
 (We run the codes in gcc4.8.5 + Python3.6 + Keras2.1.2 + Tensorflow1.12.0)  
 
 ## Citation
