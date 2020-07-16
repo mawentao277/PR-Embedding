@@ -11,7 +11,7 @@ Link: [https://www.aclweb.org/anthology/2020.acl-main.127/](https://www.aclweb.o
 [Weibo Embedding](http://pan.iflytek.com:80/link/465C101719F25F89A472D4E6F7E51275). Where the Zhidao Embedding has been used in the experiment part of the paper.
 
 ## Requirements
-gcc4.8.5 (or >=4.8.5)
+gcc4.8.5 (or >=4.8.5)  
 Python3.6  
 Keras2.1.2 (or >=2.0)  
 Tensorflow1.12.0 (or >=1.10.0)  
