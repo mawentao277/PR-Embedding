@@ -18,8 +18,11 @@ Tensorflow1.12.0 (or >=1.12)
 (We run the codes in gcc4.8.5 + Python3.6 + Keras2.1.2 + Tensorflow1.12.0)  
 
 ## Quick Start
-1. Prepare the corpus: each line has two columns corresponding to a conversation pair, all of the words are tokenized and join by " ". You can see the the personachat example in [data_for_personachat](http://pan.iflytek.com:80/link/10FAC9799FA892B66D481080BAF99BA8) (password vzoQ);
-2. Train your PR-Embedding: sh train.sh $corpus_file $embedding_file, $corpus_file is coupus file in step 1 and $embedding_file is the output PR-Embedding.
+1. Prepare the corpus: each line has two columns corresponding to a conversation pair, for example:  
+  Hi , how are you \t I am fine , Thank you !  
+2. Train your PR-Embedding:  
+ `sh train.sh $corpus_file $embedding_file`  
+ $corpus_file is coupus file in step 1 and $embedding_file is the output PR-Embedding.
 
 ## Citation
 If you use the data or codes in this repository, please cite our paper
